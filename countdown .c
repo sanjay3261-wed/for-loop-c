@@ -1,3 +1,4 @@
+#include <stdio.h>
 int main() {
      int n,fact;
      scanf("%d",&n);
@@ -6,4 +7,5 @@ int main() {
         printf("%d ",fact);
     }
     return 0;
+
 }
